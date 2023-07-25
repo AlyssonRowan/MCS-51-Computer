@@ -1,0 +1,8 @@
+HMC-PB-1  ProductionBackplane (4 slot bus) v1.00
+
+
+Line	Ref Des		        			Name			Value		QTY
+---------------------------------------------------------------------------------------------------
+1	C1						Capacitor Polarised	100uF 6.3V	1
+4	J1A, J2A, J3A, J4A				40-pin straight header, FEMALE		1
+5	J1B, J2B, J3B, J4B				34-pin straight header, FEMALE		1

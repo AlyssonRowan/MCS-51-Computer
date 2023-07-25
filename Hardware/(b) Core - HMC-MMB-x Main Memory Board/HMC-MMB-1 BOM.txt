@@ -1,0 +1,14 @@
+HMC-MMB-1 - Main Memory Board (HY6264A x 4) v1.00 
+
+
+Line	Ref Des		        			Name			Value		QTY
+---------------------------------------------------------------------------------------------------
+1	C1						Capacitor Polarised 	1000uF 16V	1
+2 	C2, C3, C4, C5 					Capacitor		0.1uF		4
+3 	D1 						1N5817G					1
+4 	J1						40-pin angle header, Male, 2.54mm	1
+5	J2						34-pin angle header, Male, 2.54mm	1
+6	J3 						6-pin angle header, Male, 2.54mm	1
+7 	JP1, JP2, JP3, JP4				Jumper Point 3-in-line, 2.54mm		4
+8	U1, U2, U3, U4					HY6264A					4
+9	U1, U2, U3, U4					Socket, 22pin 				4

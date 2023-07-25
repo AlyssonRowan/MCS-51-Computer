@@ -1,0 +1,7 @@
+HMC-DCB-1  Daisy-Chain Board (short) v2.00
+
+
+Line	Ref Des		        			Name			Value		QTY
+---------------------------------------------------------------------------------------------------
+1	J1A, J2A					40 pin straight header, FEMALE, 2.54mm	2
+2	J1B, J2B					34 pin straight header, FEMALE, 2.54mm	2

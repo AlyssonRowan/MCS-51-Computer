@@ -1,0 +1,6 @@
+HMC-MB-1  Modular Backplane A 
+
+
+Line	Ref Des		        			Name			Value		QTY
+---------------------------------------------------------------------------------------------------
+5	J1A, J2A, J3A, J4A, J5A, J6A, J7A		40-pin straight header, FEMALE		7

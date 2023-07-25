@@ -1,0 +1,16 @@
+HMC-ROM-1 2764, 128 ROM Board v1.00 
+
+
+Line	Ref Des		        			Name			Value		QTY
+---------------------------------------------------------------------------------------------------
+1	C1						Capacitor Polarised	1000uF 16V	1
+2	C2, C3						Capacitor		0.1uF		2
+3	D1						1N5817G					1
+4	J1						40-pin angle header, Male, 2.54mm	1
+5	J2						34-pin angle header, Male, 2.54mm	1
+6	J3						6-pin angle header, Male, 2.54mm	1
+7	JMP1						Jumper 3-in-line, 2.54mm		3
+8	JMP2, JMP3, JMP4, JMP5, JMP6, JMP7, JMP8, JMP9	Jumper 3-square, 2.54mm			8
+9	R1, R2						Resistor		4k7 0.25W	2
+10	U1						SN74HC21N				1
+11	U3						27128A-2				1

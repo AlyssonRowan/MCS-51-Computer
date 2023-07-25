@@ -1,0 +1,21 @@
+G04 DipTrace 4.3.0.5*
+G04 Board.gbr*
+%MOMM*%
+G04 #@! TF.FileFunction,Drawing,Board polygon*
+G04 #@! TF.Part,Single*
+%FSLAX35Y35*%
+G04*
+G71*
+G90*
+G75*
+G01*
+G04 BoardPoly*
+%LPD*%
+G36*
+X5000000Y1777087D2*
+Y-158750D1*
+X-5000000D1*
+Y1777100D1*
+X5000000Y1777087D1*
+G37*
+M02*

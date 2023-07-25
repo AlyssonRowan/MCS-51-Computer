@@ -1,0 +1,7 @@
+HMC-MB-2  Modular Backplane A 
+
+
+Line	Ref Des		        			Name			Value		QTY
+---------------------------------------------------------------------------------------------------
+1	J1B, J2B, J3B, J4B, J5B, J6B, J7B		34-pin straight header, FEMALE		7
+2	C2, C3, C4, C5, C6				CAPACITOR, polarised	100uF 6.3V	5

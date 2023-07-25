@@ -1,0 +1,22 @@
+HMC-IB-1  Integrated Backplane MOBO v1.65
+
+
+Line	Ref Des		        			Name			Value		QTY
+---------------------------------------------------------------------------------------------------
+1       C1, C2                                          Capacitor, polarised    250uF 6.3V      2
+2       C3, C4, C5, C7, C10                             Capacitor, polarised    100uF 6.3V      5
+3       C6                                              Capacitor               0.1uF           1
+4       C9                                              Capacitor               10nF            1
+5       D1                                              LED-5R_Red              5mm Round       1
+6       D2, D3, D4, D5, D6, D7, D8, D9                  LED-3R_Red              3mm Round       8
+7       J2, J3, J5, J7, J8, J11, J12, J13, J14          2 pin straight header, FEMALE, 2.54mm   9
+8       J4, J6, J9, J10                                 6 pin straight header, FEMALE, 2.54mm   4
+9       P1                                              14 pin straight header, MALE, 2.54mm    1
+10      R1, R2, R4, R5, R6, R7, R8, R9                  RESISTOR                360R 0.125W     8
+11      R3, R11                                         RESISTOR                3k9 0.125W      2
+12      R10                                             Potentiometer, Preset   100k            1
+13      S1, S2                                          7101SD9CQE              SPDT 5A 120V    2
+14      S3                                              7201P3YCQE              DPDT 5A 120V    1
+15      TP1, TP2, TP3                                   TESTPOINT                               3
+16      U1                                              ULN2003BDR                              1
+17      U2                                              NE555D                                  1

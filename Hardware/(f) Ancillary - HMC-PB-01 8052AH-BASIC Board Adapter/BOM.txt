@@ -1,0 +1,10 @@
+HMC-PB-01 8052AH-BASIC Board Adaptor v1.00
+
+
+Line	Ref Des		        			Name			Value		QTY
+---------------------------------------------------------------------------------------------------
+1	D1						1N5817G					1
+2	J1, J3						40-pin angle header, Male		2
+3	J2						34-pin angle header, Male		1
+4	J4						20-pin angle header, Male		1
+5	J5						8-pin angle header, Male		1

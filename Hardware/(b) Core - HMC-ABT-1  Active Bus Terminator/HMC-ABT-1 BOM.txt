@@ -1,0 +1,17 @@
+HMC-ABT-1  Active Bus Terminator v1.00
+
+
+Line	Ref Des		        			Name			Value		QTY
+---------------------------------------------------------------------------------------------------
+1	C1, C2, C3					Capacitor Polarised	100uF 6.3V	3
+2	C4, C5,						Capacitor Polarised	47uF 6.3V	2
+3	C6, C7, C8, C9, C10, C11, C12, C13, C14		Capacitor		0.1uF		9
+4	J1A						34-pin angle header, Male, 2.54mm	1
+5	J1B						40-pin angle header, Male, 2.54mm	1
+6	Q1, Q2						2N4923G					2
+7	R3, R4,						Resistor		56R 1/4W	2
+8	R5, R6, R7, R8, R9, R10, R11, R12, R13		SIP 9 Res (commoned)	1k0		9
+9	TP1, TP2, TP3, TP4, TP5,			TESTPOINT				5
+10	U1						LM358N					1
+11	VR1, VR2					201XR103B		100k		2
+
