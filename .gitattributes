@@ -1,2 +1,3 @@
 *.gbr linguist-detectable=true
 *.asm linguist-detectable=true
+*.hex linguist-detectable=true
