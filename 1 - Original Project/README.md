@@ -1,4 +1,4 @@
-#Original Project
+# Original Project
 **Elektor BASIC Computer**
 *Elektor December 1987*
 
